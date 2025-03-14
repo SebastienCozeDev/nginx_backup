@@ -19,4 +19,4 @@ git clone https://github.com/SebastienCozeDev/nginx_backup
 This script will create your backup where you started it.
 
 ## Credits
-[<img src="https://avatars.githubusercontent.com/u/96086580?v=4" width="25"/> SebastienCozeDev](https://sebastien.cozedev.com/)
+[<img src="https://avatars.githubusercontent.com/u/96086580?v=4" width="25"/> ![Version](https://img.shields.io/badge/SebastienCozeDev-blue.svg)](https://sebastien.cozedev.com/)
