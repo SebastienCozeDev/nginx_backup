@@ -13,6 +13,8 @@ git clone https://github.com/SebastienCozeDev/nginx_backup
 ## Run the script
 
 ```
+cd nginx_backup
+chmox u+x nginx_backup.sh
 ./nginx_backup.sh
 ```
 
