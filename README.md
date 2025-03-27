@@ -14,7 +14,7 @@ git clone https://github.com/SebastienCozeDev/nginx_backup
 
 ```
 cd nginx_backup
-cdmod u+x nginx_backup.sh
+chmod u+x nginx_backup.sh
 ./nginx_backup.sh
 ```
 
