@@ -1,6 +1,6 @@
 # nginx_backup
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/SebastienCozeDev/nginx_backup)
-![Version](https://img.shields.io/badge/version-0.1.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.2-blue.svg)
 
 This script used to create a backup of your nginx config.
 
